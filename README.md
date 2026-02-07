@@ -1,12 +1,3 @@
-## Problem
-Link:
+# dsa-prep
 
-## Pattern
-
-## Key idea (2 lines)
-
-## Complexity
-Time:
-Space:
-
-## Mistake / Edge case
+This repo tracks my DSA practice.
