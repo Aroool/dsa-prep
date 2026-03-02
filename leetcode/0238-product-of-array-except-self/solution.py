@@ -13,4 +13,4 @@ class Solution:
             r_arr[j] = r_mul
             l_mul *= nums[i]
             r_mul *= nums[j]
-        return [l*r for l, r in zip(l_arr , r_arr)]
+        return [l*r for l,r in zip(l_arr , r_arr)]
